@@ -1,0 +1,40 @@
+{
+    "Questionnaires": [
+        {
+            "inventoryid": "Anxiety - Beck",
+            "filepath": "/inventories/beckanxiety.pdf"
+        },
+        {
+            "inventoryid": "Depression - Beck",
+            "filepath": "/inventories/beckdepression.pdf"
+        },
+        {
+            "inventoryid": "Bipolar - MoodCheck",
+            "filepath": "/inventories/bipolarmoodcheck2021.pdf"
+        },
+        {
+            "inventoryid": "All - DSM Cross-Cut",
+            "filepath": "/inventories/dsm5crosscut-adult.pdf"
+        },
+        {
+            "inventoryid": "ED - Eating Disorder Questionnaire EDEQ",
+            "filepath": "/inventories/eatingdisorderquestionnaireEDEQ.pdf"
+        },
+        {
+            "inventoryid": "Depression - Edinburgh",
+            "filepath": "/inventories/edinburghpostnatal.pdf"
+        },
+        {
+            "inventoryid": "Bipolar - Mood Disorder Questionnaire",
+            "filepath": "/inventories/moodisorderquestionnairebipolar.pdf"
+        },
+        {
+            "inventoryid": "Combo - PHQ9 GAD7",
+            "filepath": "/inventories/phq9gad7combo.pdf"
+        },
+        {
+            "inventoryid": "OCD - YBOCS",
+            "filepath": "/inventories/ybocs.pdf"
+        }
+    ]
+}

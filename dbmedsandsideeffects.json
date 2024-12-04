@@ -1,0 +1,169 @@
+{
+    "Medications": [
+        {
+            "rxid": "Aripiprazole",
+            "SideEffectIDs": ["general-sleep", "akathisia", "EPStwitches", "dystonias", "dysphagias", "drowsiness", "dyslipidemia", "hyperglycemia", "general-appetite", "impulsivity", "sexualsideeffects"]
+        },
+        {
+            "rxid": "Bupropion",
+            "SideEffectIDs": ["impulsivity", "maniasleep", "maniaoutofcontrol", "suicidalideation", "SOB", "CP", "general-sleep", "general-appetite", "irritability", "general-bloodpressure"]
+        },
+        {
+            "rxid": "Citalopram",
+            "SideEffectIDs": ["affectiveblunting", "maniasleep", "maniaoutofcontrol", "impulsivity", "suicidalideation", "sexualsideeffects", "visionchanges", "xerostomia", "dizziness", "general-appetite", "general-sleep"]
+        },
+        {
+            "rxid": "Duloxetine",
+            "SideEffectIDs": ["affectiveblunting", "maniasleep", "maniaoutofcontrol", "impulsivity", "suicidalideation", "sexualsideeffects", "cardiac-new", "visionchanges", "SOB", "xerostomia", "dizziness", "general-appetite", "general-sleep", "tachycardia", "jaundice", "abdominalpain"]
+        },
+        {
+            "rxid": "Escitalopram",
+            "SideEffectIDs": ["affectiveblunting", "maniasleep", "maniaoutofcontrol", "impulsivity", "suicidalideation", "sexualsideeffects", "visionchanges", "xerostomia", "dizziness", "general-appetite", "general-sleep"]
+        },
+        {
+            "rxid": "Fluoxetine",
+            "SideEffectIDs": ["affectiveblunting", "maniasleep", "maniaoutofcontrol", "impulsivity", "suicidalideation", "sexualsideeffects", "visionchanges", "xerostomia", "dizziness", "general-appetite", "general-sleep"]
+        },
+        {
+            "rxid": "Lamotrigine",
+            "SideEffectIDs": ["Derm-rashes", "Derm-rashessevere", "Derm-ulcers", "suicidalideation"]
+        },
+        {
+            "rxid": "Methylphenidate Concerta",
+            "SideEffectIDs": ["CP", "SOB", "cardiac-new", "tachycardia", "irritability", "anxiety", "impulsivity", "maniasleep", "maniaoutofcontrol", "general-appetite", "general-sleep", "affectiveblunting", "visionchanges"]
+        },
+        {
+            "rxid": "Paroxetine",
+            "SideEffectIDs": ["affectiveblunting", "maniasleep", "maniaoutofcontrol", "impulsivity", "suicidalideation", "sexualsideeffects", "visionchanges", "xerostomia", "dizziness", "general-appetite", "general-sleep"]
+        },        {
+            "rxid": "Sertraline",
+            "SideEffectIDs": ["affectiveblunting", "maniasleep", "maniaoutofcontrol", "impulsivity", "suicidalideation", "sexualsideeffects", "visionchanges", "xerostomia", "dizziness", "general-appetite", "general-sleep"]
+        },
+        {
+            "rxid": "Venlafaxine",
+            "SideEffectIDs": ["affectiveblunting", "maniasleep", "maniaoutofcontrol", "impulsivity", "suicidalideation", "sexualsideeffects", "cardiac-new", "visionchanges", "SOB", "xerostomia", "dizziness", "general-appetite", "general-sleep", "tachycardia"]
+        }
+    ],
+    "SideEffects": [
+        {
+            "seid": "abdominalpain",
+            "SEQuestion": "Pain in your abdomen"
+        },
+        {
+            "seid": "affectiveblunting",
+            "SEQuestion": "Decreased access to emotions, feeling fewer feelings, difficulty crying"
+        },
+        {
+            "seid": "akathisia",
+            "SEQuestion": "Feeling restless, jittery, or feeling like you cannot stay still"
+        },
+        {
+            "seid": "anxiety",
+            "SEQuestion": "Significant increases in anxiety, worrying"
+        },
+        {
+            "seid": "cardiac-new",
+            "SEQuestion": "New diagnoses of heart problems or high blood pressure"
+        },
+        {
+            "seid": "CP",
+            "SEQuestion": "Chest pain or discomfort during exertion or at rest"
+        },
+        {
+            "seid": "EPStwitches",
+            "SEQuestion": "Muscle twitches or stiffness"
+        },
+        {
+            "seid": "Derm-rashes",
+            "SEQuestion": "Mild skin rashes: hives, itching, swelling"
+        },
+        {
+            "seid": "Derm-rashessevere",
+            "SEQuestion": "Severe skin rashes: painful rash that spreads and blisters, skin peeling"
+        },
+        {
+            "seid": "Derm-ulcers",
+            "SEQuestion": "Ulcers (canker sores or otherwise) in your mouth, on your tongue, or anywhere else on your body"
+        },
+        {
+            "seid": "dizziness",
+            "SEQuestion": "Dizziness"
+        },
+        {
+            "seid": "dyslipidemia",
+            "SEQuestion": "Changes in your blood cholesterol (requires lab tests)"
+        },
+        {
+            "seid": "dysphagias",
+            "SEQuestion": "Difficulty swallowing"
+        },
+        {
+            "seid": "dystonias",
+            "SEQuestion": "Feelings of muscles freezing or locking up"
+        },
+        {
+            "seid": "drowsiness",
+            "SEQuestion": "Feeling drowsy after taking this medication"
+        },
+        {
+            "seid": "general-appetite",
+            "SEQuestion": "Changes in appetite (increased or decreased) or weight: "
+        },
+        {
+            "seid": "general-bloodpressure",
+            "SEQuestion": "Changes in your blood pressure (or blood pressure meds)"
+        },
+        {
+            "seid": "general-sleep",
+            "SEQuestion": "Problems with sleep, if so, what:"
+        },
+        {
+            "seid": "hyperglycemia",
+            "SEQuestion": "Changes in your blood glucose (blood sugar) (requires lab tests)"
+        },
+        {
+            "seid": "irritability",
+            "SEQuestion": "Feeling irritable or agitated more often than previously"
+        },
+        {
+            "seid": "jaundice",
+            "SEQuestion": "Itching and/or yellowing of the skin"
+        },
+        {
+            "seid": "maniasleep",
+            "SEQuestion": "Decreased need for sleep, or no need for sleep"
+        },
+        {
+            "seid": "maniaoutofcontrol",
+            "SEQuestion": "Feeling out of control or those close to you saying you’re out of control"
+        },
+        {
+            "seid": "impulsivity",
+            "SEQuestion": "Feeling impulsive, spending money, gambling, or risky sexual behaviors"
+        },
+        {
+            "seid": "sexualsideeffects",
+            "SEQuestion": "Changes in sexual activity (libido, arousal, orgasm)"
+        },
+        {
+            "seid": "SOB",
+            "SEQuestion": "Shortness of breath"
+        },
+        {
+            "seid": "suicidalideation",
+            "SEQuestion": "Thinking about death or suicide more often than before"
+        },
+        {
+            "seid": "tachycardia",
+            "SEQuestion": "Feeling of heart racing after taking the medicine, or more often than usual, or a pulse frequently above 100 bpm"
+        },
+        {
+            "seid": "visionchanges",
+            "SEQuestion": "Changes in vision, or eye pain"
+        },
+        {
+            "seid": "xerostomia",
+            "SEQuestion": "Dry mouth, cotton mouth, decreased saliva"
+        }
+    ]
+}
